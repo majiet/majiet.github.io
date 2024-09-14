@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://majiet.github.io/AIv/sitemap.AIv.gz
